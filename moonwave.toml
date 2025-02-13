@@ -1,5 +1,5 @@
 title = "Lumi"
-gitRepoUrl = "https://github.com/astridyz/Lumi"
+gitRepoUrl = "https://github.com/0jewell/Lumi"
 
 gitSourceBranch = "main"
 changelog = true
@@ -36,4 +36,4 @@ src = "/logo.svg"
 includeReadme = false
 
 [footer]
-copyright = "Built using Docusaurus and Moonwave. Released under the <a href=\"https://github.com/astridyz/Lumi/blob/main/LICENSE\" target=\"_blank\">MIT License</a>."   
+copyright = "Built using Docusaurus and Moonwave. Released under the <a href=\"https://github.com/0jewell/Lumi/blob/main/LICENSE\" target=\"_blank\">MIT License</a>."   
