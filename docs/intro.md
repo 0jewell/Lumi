@@ -22,4 +22,4 @@ We want you to extend and modify Lumi to achieve your goals and get better resul
 
 We welcome contributions and feedback from the community.  
 Feel free to reach out with any suggestions, bug reports, or enhancements. 🔎  
-You can contact me using Github (discussions, issues) or my Discord: *@astridyz*
+You can contact me using Github (discussions, issues) or my Discord: *@0jewell*

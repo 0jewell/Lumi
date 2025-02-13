@@ -30,7 +30,7 @@ To add Lumi as a submodule in your project repository, follow these steps:
 - In order to add Lumi as a submodule in your repository, run the following commands:
 
 ```
-$ git submodule add https://github.com/astridyz/Lumi.git libs/Lumi
+$ git submodule add https://github.com/0jewell/Lumi.git libs/Lumi
 $ git submodule init
 ```
 
